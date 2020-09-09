@@ -79,7 +79,7 @@ public class MainActivity extends AppCompatActivity implements MyUserAdapter.OnI
         recyclerView.setHasFixedSize(true);
 
 
-        
+
         recyclerView.setLayoutManager(new LinearLayoutManager(getApplicationContext(), RecyclerView.VERTICAL, false));
     }
 
