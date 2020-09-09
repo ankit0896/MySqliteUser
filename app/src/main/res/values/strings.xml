@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyUser</string>
+    <string name="enterUserName">Enter User Name</string>
+    <string name="enterUserEmail">Enter Email-ID</string>
+    <string name="enterUserLocation">Enter Current Location</string>
+    <string name="selectImage">Pick Image</string>
+    <string name="save">Save</string>
+    <string name="home"></string>
+    <string name="add">Add User</string>
+    <string name="addUser">Add User</string>
+    <string name="name">Name</string>
+    <string name="note">Note That Image Should be less than 2 MB</string>
+    <string name="delete">Delete</string>
+    <string name="message">"Are You Sure want to Delete "</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>>
+</resources>
