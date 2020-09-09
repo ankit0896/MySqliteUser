@@ -77,6 +77,9 @@ public class MainActivity extends AppCompatActivity implements MyUserAdapter.OnI
         MyUserAdapter myAreaAdapter = new MyUserAdapter(getApplicationContext(), user, MainActivity.this);
         recyclerView.setAdapter(myAreaAdapter);
         recyclerView.setHasFixedSize(true);
+
+
+        
         recyclerView.setLayoutManager(new LinearLayoutManager(getApplicationContext(), RecyclerView.VERTICAL, false));
     }
 
